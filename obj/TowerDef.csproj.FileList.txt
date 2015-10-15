@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TowerDef.Forms.Form_About.resources
+obj\Debug\TowerDef.Form_Main.resources
+obj\Debug\TowerDef.Properties.Resources.resources
+obj\Debug\TowerDef.csproj.GenerateResource.Cache
+bin\Debug\TowerDef.exe
+bin\Debug\TowerDef.pdb
+obj\Debug\TowerDef.exe
+obj\Debug\TowerDef.pdb
